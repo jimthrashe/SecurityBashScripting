@@ -8,7 +8,7 @@
 # DJ                                                                                    #
 #Group collab                                                                                       #
 # Google
-# ChatGPT to clean up my code bevause I have more typo's than anyone else I know        #
+#      #
 #########################################################################################
 
 
