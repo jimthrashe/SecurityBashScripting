@@ -4,10 +4,9 @@
 # James Thrasher                          #
 # IS 580                                  #
 # Search files for a pattern              #
-# Resources                               #
-# None different since my last file 
-# I am learning
-#  Found out how to void data via claude  #
+#                                         #
+#                                         #
+#                                         #
 ###########################################
 
 # Check if the correct number of arguments are provided
