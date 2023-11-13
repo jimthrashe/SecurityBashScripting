@@ -5,10 +5,7 @@
 #  This program searches all log files in a directory for Failed User attempted logins                                                                    
 # - DJ                                                                             
 # - Group collaboration                                                           
-# - Google                                                                        
-# - ChatGPT to clean up my code because I have more typos than anyone else I know  
-# I changed my program because of what we did in class made my program limited in number, and I find this approach simpler to recreate in a pentest #
-#########################################################################################
+# #########################################################################################
 
 
 # Set the log directory from the command line argument.
