@@ -6,9 +6,9 @@
 #a result of llog aggregation that say "Message repeated and expands the aggregated logs#
 # Resources                                                                             #
 # DJ                                                                                    #
-#Group collab                                                                                       #
-# Google
-#      #
+#Group collab                                                                           #
+# Google                                                                                # 
+#                                                                                        # 
 #########################################################################################
 
 
